@@ -12,3 +12,14 @@ npm install
 
 - Node.js
 - Express
+
+## Dockerizálás
+
+Az alkalmazás dockerizálva is futtatható.
+
+### Image build
+
+A projekt gyökérkönyvtárában futtatható:
+
+```bash
+docker build -t devops-beadando:v1 .
