@@ -1,0 +1,9 @@
+{
+  "name": "Nagy Peter(TRVUMF) - DevOps Beadando Dev Container",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "context": "..",
+  "forwardPorts": [8080],
+  "postCreateCommand": "npm install"
+}
