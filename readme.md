@@ -7,3 +7,8 @@ Telepítés után futtasd:
 
 ```bash
 npm install
+
+## Tech stack
+
+- Node.js
+- Express
